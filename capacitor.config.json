@@ -1,0 +1,11 @@
+{
+  "appId": "com.calisthenics.pro",
+  "appName": "Calisthenics Pro",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https"
+  },
+  "android": {
+    "backgroundColor": "#0a0a0b"
+  }
+}
